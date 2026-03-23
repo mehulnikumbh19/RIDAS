@@ -1,0 +1,15 @@
+# Local virtual environment (do not commit site-packages)
+is665/
+
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.ruff_cache/
+*.egg-info/
+.eggs/
+
+.ipynb_checkpoints/
+
+.DS_Store
+Thumbs.db
