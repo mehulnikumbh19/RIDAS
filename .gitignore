@@ -13,3 +13,10 @@ __pycache__/
 
 .DS_Store
 Thumbs.db
+
+# Local capture outputs (private network metadata)
+data/mycapture.pcap
+data/packet_features.csv
+data/pyshark_features.csv
+data/pyshark_flows.csv
+data/pyshark_flows_predicted.csv
